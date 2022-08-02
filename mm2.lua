@@ -79,7 +79,7 @@ local Underline_19 = Instance.new("TextLabel")
 local JPReset = Instance.new("TextButton")
 local Underline_20 = Instance.new("TextLabel")
 --Properties:
-VynixuMM2Script.Name = "VynixuMM2Script"
+VynixuMM2Script.Name = "Cheetos mm2"
 VynixuMM2Script.Parent = game.CoreGui
 VynixuMM2Script.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 VynixuMM2Script.ResetOnSpawn = false
