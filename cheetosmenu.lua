@@ -1,8 +1,8 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local loadinggame = loadstring(game:HttpGet("https://raw.githubusercontent.com/c0dezinnn/cheetos/main/dg.lua"))()
+---local loadinggame = loadstring(game:HttpGet("https://raw.githubusercontent.com/c0dezinnn/cheetos/main/dg.lua"))()
 print("detecting game...")
-wait(6)
-ScreenGui.Enabled = false
+---wait(6)
+---ScreenGui.Enabled = false
 gamesupported = "notverified"
 -- starving artists 
 if game.PlaceId == 8916037983 then
