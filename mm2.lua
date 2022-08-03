@@ -93,7 +93,7 @@ Holder.Size = UDim2.new(0, 340, 0, 395)
 
 Top.Name = "Top"
 Top.Parent = Holder
-Top.BackgroundColor3 = Color3.new(0.392157, 0, 1)
+Top.BackgroundColor3 = Color3.new(255, 140, 0)
 Top.BorderSizePixel = 0
 Top.Position = UDim2.new(0, 0, 0, -25)
 Top.Size = UDim2.new(1, 0, 0, 25)
@@ -138,14 +138,14 @@ ErrorLabel.TextStrokeTransparency = 0
 
 PlayerList.Name = "PlayerList"
 PlayerList.Parent = Holder
-PlayerList.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
+PlayerList.BackgroundColor3 = Color3.new(255, 140, 0)
 PlayerList.BorderSizePixel = 0
 PlayerList.Position = UDim2.new(0, -25, 0, 0)
 PlayerList.Size = UDim2.new(0, 175, 0, 395)
 
 Top_2.Name = "Top"
 Top_2.Parent = PlayerList
-Top_2.BackgroundColor3 = Color3.new(0.392157, 0, 1)
+Top_2.BackgroundColor3 = Color3.new(255, 140, 0)
 Top_2.BorderSizePixel = 0
 Top_2.Size = UDim2.new(0, 25, 1, 0)
 
