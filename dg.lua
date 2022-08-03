@@ -6,10 +6,10 @@
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
+local CoreGui = game:GetService("CoreGui")
 
 --Properties:
-
-ScreenGui.Parent = Coregui
+ScreenGui.Parent = CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = ScreenGui
