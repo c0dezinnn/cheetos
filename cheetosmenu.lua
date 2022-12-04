@@ -17,7 +17,7 @@ if game.PlaceId == 142823291 then
 end
 
 if game.PlaceId == 2753915549 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/Protected.lua.txt"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/c0dezinnn/cheetos/main/bloxfrutas.lua"))()
 	gamesupported = "yes"
 end
 
