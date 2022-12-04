@@ -24,6 +24,7 @@ end
 if game.PlaceId == 6516141723 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/c0dezinnn/cheetos/main/doors.lua"))()
 	gamesupported = "yes"
+end
 
 if gamesupported == "notverified" then
 	gamesupported = "no"
