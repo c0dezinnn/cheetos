@@ -16,6 +16,11 @@ if game.PlaceId == 142823291 then
 	gamesupported = "yes"
 end
 
+if game.PlaceId == 2753915549 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/Protected.lua.txt"))()
+	gamesupported = "yes"
+end
+
 if gamesupported == "notverified" then
 	gamesupported = "no"
 end
